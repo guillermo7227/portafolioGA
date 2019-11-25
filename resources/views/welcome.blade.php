@@ -20,10 +20,7 @@
         <h3><b>Objetivo Profesional</b></h3>
 
         <p>
-          Lacus, tristique sit amet, convallis sollicitudin, commodo a,
-          purus. Nulla vitae eros a diam blandit mollis. Proin luctus feugiat
-          eros. Pellentesque habitant morbi tristique senectus et netus et
-          malesuada fames ac turpis egestas.
+          Mi objetivo es asumir nuevos retos para poner en uso mis conocimientos en proyectos que aporten valor a la sociedad. Quiero aportar mi grano de arena mediante mis habilidades para hacer del mundo un mundo mejor con proyectos que impacten positivamente en la calidad de vida de las personas.
         </p>
 
 

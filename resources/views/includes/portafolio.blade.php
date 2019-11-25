@@ -3,10 +3,7 @@
         <h3><b>Proyectos realizados</b></h3>
 
         <p>
-          Lacus, tristique sit amet, convallis sollicitudin, commodo a,
-          purus. Nulla vitae eros a diam blandit mollis. Proin luctus feugiat
-          eros. Pellentesque habitant morbi tristique senectus et netus et
-          malesuada fames ac turpis egestas.
+          En el tiempo que tengo de experiencia como Desarrollador Web he trabajado en los siguientes proyectos.
         </p>
 
         <div class="card-deck">
