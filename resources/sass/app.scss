@@ -1,0 +1,21 @@
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1d68a7;
+    text-decoration: none;
+}
+
+.borde-04 {
+    border-width: 0.4rem !important;
+}
+
