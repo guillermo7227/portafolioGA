@@ -9,6 +9,8 @@
             <h4>Desarrollador Web</h4>
 
             <p class="mt-4">
+              Valledupar, Colombia
+              <br>
               <a href="mailto:guille.agudelo@gmail.com"
                  class="text-reset">
                 guille.agudelo@gmail.com
