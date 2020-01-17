@@ -20,7 +20,7 @@
         <h3><b>Objetivo Profesional</b></h3>
 
         <p>
-          Mi objetivo es asumir nuevos retos para poner en uso mis conocimientos en proyectos que aporten valor a la sociedad. Quiero aportar mi grano de arena mediante mis habilidades para hacer del mundo un mundo mejor con proyectos que impacten positivamente en la calidad de vida de las personas.
+          Mi objetivo es asumir nuevos retos para poner en uso mis conocimientos en proyectos que aporten valor a la sociedad. Quiero vivir de la programación porque programar es mi pasión. Quiero aportar, mediante mis habilidades, a hacer del mundo un mejor lugar para las generaciones venideras.
         </p>
 
 

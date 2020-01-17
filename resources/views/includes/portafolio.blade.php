@@ -25,7 +25,7 @@
               <a href="https://tests.vallenateca.com/iglesia"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Visitar
+                Visitar sitio
               </a>
               <a href="https://bitbucket.org/guillermo7227/iglesiaspev/src/master/"
                  target="_blank"
@@ -54,7 +54,7 @@
               <a href="https://biblioteca.vallenateca.com"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Visitar
+                Visitar sitio
               </a>
               <a href="https://bitbucket.org/guillermo7227/biblioteca-iglesia/src/master/"
                  target="_blank"
