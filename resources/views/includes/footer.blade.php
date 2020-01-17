@@ -2,7 +2,7 @@
 
   <small>
     <p class="text-center">
-      Copyright 2019 - Guillermo Agudelo <br>
+      Copyright 2020 - Guillermo Agudelo <br>
       Puede ver el código fuente de este sitio en
       <a href="https://github.com/guillermo7227/portafolioGA"
          target="_blank"

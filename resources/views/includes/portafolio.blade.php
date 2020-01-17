@@ -89,5 +89,29 @@
           </div>
 
 
+          <div class="card">
+            <img src="{{ asset('img/vallenateca.png') }}"
+                 class="card-img-top"
+                 alt="Vallenateca.com">
+            <div class="card-body">
+              <h5 class="card-title">
+                Vallenateca.com
+              </h5>
+              <p class="card-text">
+                Una base de datos del género vallenato<br>
+                <small>
+                  Vallenateca.com es un sitio web que funciona como una base de datos del género musical vallenato. Se puede consultar las discografías, agrupaciones, músicos, canciones y producciones vallenatas. Pretende ser una base de datos navegable única en su género.
+                </small>
+              </p>
+              <a href="https://vallenateca.com"
+                 target="_blank"
+                 class="btn btn-sm btn-primary my-1">
+                Visitar sitio
+              </a>
+            </div>
+          </div>
+
+
+
         </div>
 
