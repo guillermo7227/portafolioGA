@@ -36,7 +36,6 @@
           </div>
 
 
-
           <div class="card">
             <img src="{{ asset('img/pwa_biblioteca.png') }}"
                  class="card-img-top"
@@ -65,7 +64,6 @@
           </div>
 
 
-
           <div class="card">
             <img src="{{ asset('img/reproductor_vt.png') }}"
                  class="card-img-top"
@@ -88,6 +86,11 @@
             </div>
           </div>
 
+        </div>
+
+        <div class="my-3"></div>
+
+        <div class="card-deck">
 
           <div class="card">
             <img src="{{ asset('img/vallenateca.png') }}"
@@ -112,6 +115,27 @@
           </div>
 
 
+          <div class="card">
+            <img src="{{ asset('img/sanosbiomed.png') }}"
+                 class="card-img-top"
+                 alt="SanosBiomed.ml">
+            <div class="card-body">
+              <h5 class="card-title">
+                SanosBiomed.ml
+              </h5>
+              <p class="card-text">
+                Página estática para consultorio médico<br>
+                <small>
+                  Sanos Biomed es un sitio web estático hehco en Wordpress con el constructor de pagínas ELementor Pro, sin usar plantillas. El sitio describe los servicios que presta el consultorio médico Sanos biomed ubicado en la ciudad de Medellín, Colombia. La empresa es nueva, por lo que el sitio está en construcción.
+                </small>
+              </p>
+              <a href="https://sanosbiomed.ml"
+                 target="_blank"
+                 class="btn btn-sm btn-primary my-1">
+                Visitar sitio
+              </a>
+            </div>
+          </div>
 
         </div>
 

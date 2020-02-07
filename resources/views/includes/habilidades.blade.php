@@ -26,7 +26,7 @@
             <b>Frameworks</b> <br>
 
             <p>
-              Laravel, VueJS, Bootstrap
+              Laravel, VueJS, Bootstrap, Wordpress
             </p>
             <!-- <ul class="list&#45;unstyled"> -->
             <!--   <li>Laravel</li> -->
