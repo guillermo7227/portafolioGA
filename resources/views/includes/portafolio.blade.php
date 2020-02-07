@@ -126,7 +126,7 @@
               <p class="card-text">
                 Página estática para consultorio médico<br>
                 <small>
-                  Sanos Biomed es un sitio web estático hehco en Wordpress con el constructor de pagínas ELementor Pro, sin usar plantillas. El sitio describe los servicios que presta el consultorio médico Sanos biomed ubicado en la ciudad de Medellín, Colombia. La empresa es nueva, por lo que el sitio está en construcción.
+                  Sanos Biomed es un sitio web estático hecho en Wordpress con el constructor de páginas Elementor Pro. El sitio describe los servicios que presta el consultorio médico Sanos Biomed ubicado en la ciudad de Medellín, Colombia. La empresa es nueva y no ha salido al mercado, por lo que el sitio todavía está en construcción.
                 </small>
               </p>
               <a href="https://sanosbiomed.ml"
