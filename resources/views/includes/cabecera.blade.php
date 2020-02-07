@@ -6,7 +6,12 @@
 
             <h1 class="ml-n1"><b>Guillermo</b> Agudelo</h1>
 
-            <h4>Desarrollador Web</h4>
+            @php
+              $fecha_nacim = new \Carbon\Carbon('1986-04-29');
+              $edad = $fecha_nacim->diff(\Carbon\Carbon::now())->format('%y');
+            @endphp
+
+            <h4>Desarrollador Web, <span class="text-muted">{{ $edad }} años</span></h4>
 
             <p class="mt-4">
               Valledupar, Colombia
