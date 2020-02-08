@@ -11,7 +11,7 @@
             <b>Tecnologías básicas</b> <br>
 
             <p>
-              HTML 5, CSS 3, Javascript 2015
+              HTML 5, CSS 3, Javascript 2015, PHP
             </p>
 
             <!-- <ul class="list&#45;unstyled"> -->

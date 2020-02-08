@@ -7,7 +7,7 @@
           <b>Técnico de Sistemas</b> (11 meses) <br>
           INSTITUTO COLOMBIANO AGROPECUARIO ICA <br>
           [Institución del Estado para la industria agropecuaria]<br>
-          Funciones: Soporte técnico a nivel de hardware y software atendiento lo tickets de funcionarios.
+          Funciones: Soporte técnico a nivel de hardware y software atendiento los tickets de funcionarios.
         </p>
 
 
