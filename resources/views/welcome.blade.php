@@ -27,12 +27,11 @@
         <!-- habilidades -->
         @include('includes.habilidades')
 
+        <!-- formacion -->
+        @include('includes.formacion')
 
         <!-- portafolio -->
         @include('includes.portafolio')
-
-        <!-- formacion -->
-        @include('includes.formacion')
 
         <!-- experiencia laboral -->
         @include('includes.experiencia')
