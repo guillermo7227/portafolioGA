@@ -33,6 +33,16 @@
             </p>
 
             <p>
+              <b>APIs and Microservices</b> (300 horas) <br>
+              FreeCodeCamp.org
+              <a href="https://www.freecodecamp.org/certification/guillermo7227/apis-and-microservices"
+                 target="_blank"
+                 class="text-resets">
+                [Certificado]
+              </a>
+            </p>
+
+            <p>
               <b>Tecnólogo en Análisis y Desarrollo de Sistemas de Información</b> (18 meses) <br>
               Servicio Nacional de Aprendizaje SENA
               <a href="{{ asset('img/certificados/tecnologo-desarrollo.jpg') }}"
@@ -53,6 +63,11 @@
               </a>
             </p>
 
+          </div>
+
+
+          <div class="col-md-6">
+
             <p>
               <b>Curso Profesional Desarrollo Web</b> (videocurso 6 horas) <br>
               CodigoFacilito.com
@@ -63,16 +78,11 @@
               </a>
             </p>
 
-          </div>
-
-
-          <div class="col-md-6">
-
-        <p>
-          <b>Curso Profesional de Python</b> (videocurso 5 horas) <br>
-          CodigoFacilito.com
-          <a href="{{ asset('img/certificados/pro-desarrollo-web.jpg') }}"
-             target="_blank"
+            <p>
+              <b>Curso Profesional de Python</b> (videocurso 5 horas) <br>
+              CodigoFacilito.com
+              <a href="{{ asset('img/certificados/pro-desarrollo-web.jpg') }}"
+                 target="_blank"
                  class="text-resets">
                 [Certificado]
               </a>
@@ -114,12 +124,12 @@
               <a href="{{ asset('img/certificados/ingles1.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado 1]
+                [Certificado 1,
               </a>
               <a href="{{ asset('img/certificados/ingles2.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado 1]
+                Certificado 2]
               </a>
             </p>
 
