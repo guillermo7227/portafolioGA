@@ -3,7 +3,7 @@
         <h3><b>Proyectos realizados</b></h3>
 
         <p>
-          En el tiempo que tengo de experiencia como Desarrollador Web he trabajado en los siguientes proyectos.
+          He trabajado en los siguientes proyectos.
         </p>
 
         <div class="card-deck">
@@ -19,10 +19,10 @@
               <p class="card-text">
                 Sitio web para la iglesia de la cual soy miembro <br>
                 <small>
-                  Tiene una base de datos de sermones que pueden ser consultados por el nombre del predicador, por pasaje bíblico y otras opciones. Cuenta también con un blog de Wordpress integrado. Estoy en espera de que la iglesia adquiera el dominio .org para ponerla en funcionamiento.
+                  Tiene una base de datos de sermones que pueden ser consultados por el nombre del predicador, por pasaje bíblico y otras opciones. Cuenta también con un blog de Wordpress integrado. El sitio está en su etapa inicial, por lo que faltan algunos textos para completar, sin embargo, la funcionalidad está completa.
                 </small>
               </p>
-              <a href="https://tests.vallenateca.com/iglesia"
+              <a href="https://supalabraesverdad.org"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
                 Visitar sitio
@@ -47,10 +47,10 @@
               <p class="card-text">
                 Software para administrar la biblioteca de mi iglesia<br>
                 <small>
-                  Permite organizar libros y controlar los préstamos que se hacen de los mismos a los miembros de la iglesia. Es una Progressive Web App, por lo que puede ser instalada en teléfonos celulares y cuenta con funcionalidad offline. Estoy en espera de que la iglesia adquiera el dominio .org para ponerla en funcionamiento.
+                  Permite organizar y consultar libros disponibles en la biblioteca, así como controlar los préstamos que se hacen de los mismos a los miembros de la iglesia. Es una Progressive Web App, por lo que puede ser instalada en teléfonos celulares.
                 </small>
               </p>
-              <a href="https://biblioteca.vallenateca.com"
+              <a href="https://biblioteca.supalabraesverdad.org"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
                 Visitar sitio
@@ -63,28 +63,6 @@
            </div>
           </div>
 
-
-          <div class="card">
-            <img src="{{ asset('img/reproductor_vt.png') }}"
-                 class="card-img-top"
-                 alt="Reproductor VT">
-            <div class="card-body">
-              <h5 class="card-title">
-                Reproductor basado en Youtube
-              </h5>
-              <p class="card-text">
-                Reproductor de música que usa la API de Youtube<br>
-                <small>
-                  Este reproductor funciona con los videos de Youtube, los cuales busca de acuerdo al nombre y el artista de la canción solicitada. Está hecho en Vue y Vuex. Soporta listas de reproducción y hace parte de un proyecto de música vallenata.
-                </small>
-              </p>
-              <a href="https://www.youtube.com/watch?v=fkYDobixCxw"
-                 target="_blank"
-                 class="btn btn-sm btn-primary my-1">
-                Ver demo
-              </a>
-            </div>
-          </div>
 
         </div>
 
@@ -103,7 +81,7 @@
               <p class="card-text">
                 Una base de datos del género vallenato<br>
                 <small>
-                  Vallenateca.com es un sitio web que funciona como una base de datos del género musical vallenato. Se puede consultar las discografías, agrupaciones, músicos, canciones y producciones vallenatas. Pretende ser una base de datos navegable única en su género.
+                  Vallenateca.com es un sitio web que funciona como una base de datos del género musical vallenato. Se puede consultar las discografías, agrupaciones, músicos, canciones y producciones vallenatas. Funciona como una base de datos navegable única en su género.
                 </small>
               </p>
               <a href="https://vallenateca.com"
@@ -114,28 +92,28 @@
             </div>
           </div>
 
-
           <div class="card">
-            <img src="{{ asset('img/sanosbiomed.png') }}"
+            <img src="{{ asset('img/reproductor_vt.png') }}"
                  class="card-img-top"
-                 alt="SanosBiomed.ml">
+                 alt="Reproductor VT">
             <div class="card-body">
               <h5 class="card-title">
-                SanosBiomed.ml
+                Reproductor basado en Youtube
               </h5>
               <p class="card-text">
-                Página estática para consultorio médico<br>
+                Reproductor de música que usa la API de Youtube<br>
                 <small>
-                  Sanos Biomed es un sitio web estático hecho en Wordpress con el constructor de páginas Elementor Pro. El sitio describe los servicios que presta el consultorio médico Sanos Biomed ubicado en la ciudad de Medellín, Colombia. La empresa es nueva y no ha salido al mercado, por lo que el sitio todavía está en construcción.
+                  Este reproductor funciona con los videos de Youtube, los cuales busca de acuerdo al nombre y el artista de la canción solicitada. Está hecho en Vue y Vuex. Soporta listas de reproducción y hace parte de Vallenateca.com.
                 </small>
               </p>
-              <a href="https://sanosbiomed.ml"
+              <a href="https://www.youtube.com/watch?v=fkYDobixCxw"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Visitar sitio
+                Ver demo
               </a>
             </div>
           </div>
+
 
         </div>
 
