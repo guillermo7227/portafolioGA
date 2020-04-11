@@ -63,6 +63,21 @@
               </a>
             </p>
 
+            <p>
+              <b>English Dot Works</b> (120 horas) <br>
+              SENA Virtual
+              <a href="{{ asset('img/certificados/ingles1.jpg') }}"
+                 target="_blank"
+                 class="text-resets">
+                [Certificado 1,
+              </a>
+              <a href="{{ asset('img/certificados/ingles2.jpg') }}"
+                 target="_blank"
+                 class="text-resets">
+                Certificado 2]
+              </a>
+            </p>
+
           </div>
 
 
@@ -119,17 +134,12 @@
             </p>
 
             <p>
-              <b>English Dot Works</b> (120 horas) <br>
-              SENA Virtual
-              <a href="{{ asset('img/certificados/ingles1.jpg') }}"
+              <b>Curso Profesional de Base de Datos</b> (videocurso 5 horas) <br>
+              CodigoFacilito.com
+              <a href="{{ asset('img/certificados/pro-base-datos.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado 1,
-              </a>
-              <a href="{{ asset('img/certificados/ingles2.jpg') }}"
-                 target="_blank"
-                 class="text-resets">
-                Certificado 2]
+                [Certificado]
               </a>
             </p>
 
