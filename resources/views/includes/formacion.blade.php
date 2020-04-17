@@ -55,13 +55,22 @@
 
             <p>
               <b>Técnico en Instalación de Redes de Computadores</b> (12 meses) <br>
-              Servicio Naciona de Aprendizaje SENA
+              Servicio Nacional de Aprendizaje SENA
               <a href="{{ asset('img/certificados/tecnico-redes.jpg') }}"
                  target="_blank"
                  class="text-resets">
                 [Diploma]
               </a>
             </p>
+
+            <p>
+              <b>Aplicaciones web modernas con VueJS</b> (videocurso 11 horas) <br>
+              Udemy.com
+              <a href="{{ asset('img/certificados/apps-vuejs.jpg') }}"
+                 target="_blank"
+                 class="text-resets">
+                [Certificado]
+              </a>
 
             <p>
               <b>English Dot Works</b> (120 horas) <br>
@@ -82,6 +91,16 @@
 
 
           <div class="col-md-6">
+
+            <p>
+              <b>Curso Profesional de Backend</b> (videocurso 7 horas) <br>
+              CodigoFacilito.com
+              <a href="{{ asset('img/certificados/pro-backend.jpg') }}"
+                 target="_blank"
+                 class="text-resets">
+                [Certificado]
+              </a>
+            </p>
 
             <p>
               <b>Curso Profesional Desarrollo Web</b> (videocurso 6 horas) <br>

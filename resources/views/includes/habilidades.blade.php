@@ -8,39 +8,29 @@
 
           <div class="col-md-4">
 
-            <b>Tecnologías básicas</b> <br>
+            <b>Buen dominio (+70%)</b> <br>
 
             <p>
-              HTML 5, CSS 3, Javascript 2015, PHP
+            Laravel, VueJS, Javascript (ES6), CSS3, HTML5, Bootstrap, PHP, MySQL, Git, idioma Inglés
             </p>
 
-            <!-- <ul class="list&#45;unstyled"> -->
-            <!--   <li>HTML 5</li> -->
-            <!--   <li>CSS 3</li> -->
-            <!--   <li>Javascript 2015</li> -->
-            <!-- </ul> -->
           </div>
 
           <div class="col-md-4">
 
-            <b>Frameworks</b> <br>
+            <b>Dominio medio (+40%)</b> <br>
 
             <p>
-              Laravel, VueJS, Bootstrap, Wordpress
+            NodeJS, ExpressJS, Sass, JQuery, MongoDB, Wordpress
             </p>
-            <!-- <ul class="list&#45;unstyled"> -->
-            <!--   <li>Laravel</li> -->
-            <!--   <li>Vue JS</li> -->
-            <!--   <li>Bootstrap</li> -->
-            <!-- </ul> -->
           </div>
 
           <div class="col-md-4">
 
-            <b>Complementarias</b> <br>
+            <b>Conceptos conocidos</b> <br>
 
             <p>
-              MySQL, SASS, Axios, REST, JSON, GIT, Wordpress, JQuery.
+            OOP, JSON, CI/CD, AJAX, MVC, Testing, Design Patterns, RESTful APIs, ORMs, SOLID Principles
             </p>
 
           </div>
