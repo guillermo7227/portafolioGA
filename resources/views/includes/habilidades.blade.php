@@ -21,7 +21,7 @@
             <b>Dominio medio (+40%)</b> <br>
 
             <p>
-            NodeJS, ExpressJS, Sass, JQuery, MongoDB, Wordpress
+            NodeJS, ExpressJS, Sass, JQuery, MongoDB, Wordpress, Linux Terminal, Shopify, Docker
             </p>
           </div>
 
@@ -30,7 +30,7 @@
             <b>Conceptos conocidos</b> <br>
 
             <p>
-            OOP, JSON, CI/CD, AJAX, MVC, Testing, Design Patterns, RESTful APIs, ORMs, SOLID Principles
+            OOP, JSON, CI/CD, AJAX, MVC, Testing, Design Patterns, RESTful APIs, ORMs, SOLID Principles, SEO, SCRUM
             </p>
 
           </div>
