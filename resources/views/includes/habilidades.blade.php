@@ -30,7 +30,7 @@
             <b>Conceptos conocidos</b> <br>
 
             <p>
-            OOP, JSON, CI/CD, AJAX, MVC, Testing, Design Patterns, RESTful APIs, ORMs, SOLID Principles, SEO, SCRUM
+            OOP, JSON, CI/CD, AJAX, MVC, Testing, Design Patterns, RESTful APIs, ORMs, SOLID Principles, SEO, SCRUM, UML
             </p>
 
           </div>

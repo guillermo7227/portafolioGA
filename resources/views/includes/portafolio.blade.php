@@ -113,7 +113,41 @@
               </a>
             </div>
           </div>
-
-
         </div>
+
+        <div class="my-3"></div>
+
+        <div class="card-deck">
+
+          <div class="card">
+            <img src="{{ asset('img/doreaweb.jpg') }}"
+                 class="card-img-top"
+                 alt="Biblioteca Iglesia Su Palabra es Verdad">
+            <div class="card-body">
+              <h5 class="card-title">
+                Doreaweb Landing page
+              </h5>
+              <p class="card-text">
+                Sitio estático de empresa de diseño web<br>
+                <small>
+                  Se realizó un sitio con Laravel 7, AlpineJS y Tailwind CSS. Es un landing page sencillo que muestra los servicio de una empresa de Diseño Web y Hosting web.
+                </small>
+              </p>
+              <a href="https://doreaweb.ml"
+                 target="_blank"
+                 class="btn btn-sm btn-primary my-1">
+                Visitar sitio
+              </a>
+              <a href="https://github.com/guillermo7227/doreaweb"
+                 target="_blank"
+                 class="btn btn-sm btn-secondary my-1">
+                Ver código en Github
+              </a>
+           </div>
+          </div>
+
+          <div class="card invisible"></div>
+        </div>
+
+
 
