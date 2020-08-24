@@ -1,7 +1,7 @@
 
         <hr class="my-4">
 
-        <h3><b>Formación</b></h3>
+        <h3><b>Formation</b></h3>
 
         <div class="row">
           <div class="col-md-6">

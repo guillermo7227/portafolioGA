@@ -28,7 +28,7 @@
         <h3><b>My Goal</b></h3>
 
         <p>
-        My goal is to tackle new challenges to apply my knowledge in projects that impact positively my clients' productivity. I make a living programming because it is my passion. My wish is to add my part to make my clients thrive.
+        My goal is to tackle new challenges to apply my knowledge in projects that impact positively my clients' productivity. I make a living of programming because it is my passion. My wish is to do my part to make my clients thrive.
         </p>
 
 

@@ -1,7 +1,7 @@
 
         <hr class="my-4">
 
-        <h3><b>Experiencia Laboral</b></h3>
+        <h3><b>Working Experience</b></h3>
 
         <p>
         <b>Web Developer</b> (7 months) <br>
