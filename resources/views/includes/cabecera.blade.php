@@ -11,7 +11,7 @@
               $edad = $fecha_nacim->diff(\Carbon\Carbon::now())->format('%y');
             @endphp
 
-            <h4>Desarrollador Web, <span class="text-muted">{{ $edad }} años</span></h4>
+            <h4>Web Developer, <span class="text-muted">{{ $edad }} years old</span></h4>
 
             <p class="mt-4">
               Valledupar, Colombia
@@ -27,14 +27,14 @@
                  target="_blank">
                 <img src="{{ asset('img/logos/github.png') }}"
                      alt="Logo GitHub"
-                     title="Visitar perfil de GitHub"
+                     title="Visit GitHub profile"
                      width="24">
               </a>
               <a href="https://stackoverflow.com/users/2171254/gjaa?tab=profile"
                  target="_blank">
                 <img src="{{ asset('img/logos/stackoverflow.png') }}"
                      alt="Logo StackOverflow"
-                     title="Visitar perfil de StackOverflow"
+                     title="Visit StackOverflow profile"
                      width="24">
               </a>
             </p>

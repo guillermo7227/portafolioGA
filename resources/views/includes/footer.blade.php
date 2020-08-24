@@ -3,7 +3,7 @@
   <small>
     <p class="text-center">
       Copyright 2020 - Guillermo Agudelo <br>
-      Puede ver el código fuente de este sitio en
+      This site's code is available on
       <a href="https://github.com/guillermo7227/portafolioGA"
          target="_blank"
          class="text-reset">

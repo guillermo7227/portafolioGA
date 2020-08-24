@@ -1,9 +1,9 @@
         <hr class="my-4">
 
-        <h3><b>Proyectos realizados</b></h3>
+        <h3><b>Projects</b></h3>
 
         <p>
-          He trabajado en los siguientes proyectos.
+        I've worked on the following projects:
         </p>
 
         <div class="card-deck">
@@ -17,20 +17,20 @@
                 Iglesia Su Palabra es Verdad
               </h5>
               <p class="card-text">
-                Sitio web para la iglesia de la cual soy miembro <br>
+                My church's website<br>
                 <small>
-                  Tiene una base de datos de sermones que pueden ser consultados por el nombre del predicador, por pasaje bíblico y otras opciones. Cuenta también con un blog de Wordpress integrado. El sitio está en su etapa inicial, por lo que faltan algunos textos para completar, sin embargo, la funcionalidad está completa.
+                  It has a database with sermons that can be searched by the preacher's name, by Bible passage and other criteria. It also has a Wordpress blog included.
                 </small>
               </p>
               <a href="https://supalabraesverdad.org"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Visitar sitio
+                Visit site
               </a>
               <a href="https://bitbucket.org/guillermo7227/iglesiaspev/src/master/"
                  target="_blank"
                  class="btn btn-sm btn-secondary my-1">
-                Ver código en Bitbucket
+                See code on Bitbucket
               </a>
             </div>
           </div>
@@ -42,23 +42,23 @@
                  alt="Biblioteca Iglesia Su Palabra es Verdad">
             <div class="card-body">
               <h5 class="card-title">
-                PWA Biblioteca Iglesia SPEV
+                PWA Iglesia SPEV Library
               </h5>
               <p class="card-text">
-                Software para administrar la biblioteca de mi iglesia<br>
+                Software to manage my church's library<br>
                 <small>
-                  Permite organizar y consultar libros disponibles en la biblioteca, así como controlar los préstamos que se hacen de los mismos a los miembros de la iglesia. Es una Progressive Web App, por lo que puede ser instalada en teléfonos celulares.
+                  It allows to organize and query available books in the library. Also allows to manage the borrowing of books to church members. It's a Proggresive Web App, so it can be installed on mobile devices.
                 </small>
               </p>
               <a href="https://biblioteca.supalabraesverdad.org"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Visitar sitio
+                Visit site
               </a>
               <a href="https://bitbucket.org/guillermo7227/biblioteca-iglesia/src/master/"
                  target="_blank"
                  class="btn btn-sm btn-secondary my-1">
-                Ver código en Bitbucket
+                See code on Bitbucket
               </a>
            </div>
           </div>
@@ -79,15 +79,15 @@
                 Vallenateca.com
               </h5>
               <p class="card-text">
-                Una base de datos del género vallenato<br>
+                A database of the musical genre Vallenato<br>
                 <small>
-                  Vallenateca.com es un sitio web que funciona como una base de datos del género musical vallenato. Se puede consultar las discografías, agrupaciones, músicos, canciones y producciones vallenatas. Funciona como una base de datos navegable única en su género.
+                  Is a website where users can find discographies, bands, musicians, songs and productions of this musical genre.
                 </small>
               </p>
               <a href="https://vallenateca.com"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Visitar sitio
+                Visit site
               </a>
             </div>
           </div>
@@ -98,18 +98,18 @@
                  alt="Reproductor VT">
             <div class="card-body">
               <h5 class="card-title">
-                Reproductor basado en Youtube
+                Youtube-based music player
               </h5>
               <p class="card-text">
-                Reproductor de música que usa la API de Youtube<br>
+                Music player that uses Youtube API<br>
                 <small>
-                  Este reproductor funciona con los videos de Youtube, los cuales busca de acuerdo al nombre y el artista de la canción solicitada. Está hecho en Vue y Vuex. Soporta listas de reproducción y hace parte de Vallenateca.com.
+                  This player works with Youtube videos. It's made in Vue and Vuex. Supports playlists and it's a part of Vallenateca.com
                 </small>
               </p>
               <a href="https://www.youtube.com/watch?v=fkYDobixCxw"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Ver demo
+              Watch demo
               </a>
             </div>
           </div>
@@ -128,20 +128,20 @@
                 Doreaweb Landing page
               </h5>
               <p class="card-text">
-                Sitio estático de empresa de diseño web<br>
+                Static website for a Web design bussiness<br>
                 <small>
-                  Se realizó un sitio con Laravel 7, AlpineJS y Tailwind CSS. Es un landing page sencillo que muestra los servicio de una empresa de Diseño Web y Hosting web.
+                  It is made with Laravel, AlpineJS and TailwindCSS. Simple landing page that showcases the bussiness' services.
                 </small>
               </p>
               <a href="https://doreaweb.ml"
                  target="_blank"
                  class="btn btn-sm btn-primary my-1">
-                Visitar sitio
+                Visit site
               </a>
               <a href="https://github.com/guillermo7227/doreaweb"
                  target="_blank"
                  class="btn btn-sm btn-secondary my-1">
-                Ver código en Github
+                See code on Github
               </a>
            </div>
           </div>

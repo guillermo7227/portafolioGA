@@ -25,10 +25,10 @@
       <!-- cuerpo -->
       <div class="container my-3">
 
-        <h3><b>Objetivo Profesional</b></h3>
+        <h3><b>My Goal</b></h3>
 
         <p>
-          Mi objetivo es asumir nuevos retos para aplicar mis conocimientos en proyectos que impacten positivamente la productividad de mis clientes. Vivo de la programación porque es mi pasión. Mi deseo es aportar  mis habilidades para que mis clientes progresen.
+        My goal is to tackle new challenges to apply my knowledge in projects that impact positively my clients' productivity. I make a living programming because it is my passion. My wish is to add my part to make my clients thrive.
         </p>
 
 

@@ -6,44 +6,44 @@
         <div class="row">
           <div class="col-md-6">
             <p>
-              <b>Ingeniería de Sistemas</b> (Cursando 8vo. semestre) <br>
+              <b>Systems Engineer (Bachelor Degree)</b> (Currently 8th. semester) <br>
               Universidad Nacional Abierta y a Distancia <br>
             </p>
 
 
             <p>
-              <b>Responsive Web Design</b> (300 horas) <br>
+              <b>Responsive Web Design</b> (300 hours) <br>
               FreeCodeCamp.org
               <a href="https://www.freecodecamp.org/certification/guillermo7227/responsive-web-design"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
 
             <p>
-              <b>JavaScript Algorithms and Data Structures</b> (300 horas) <br>
+              <b>JavaScript Algorithms and Data Structures</b> (300 hours) <br>
               FreeCodeCamp.org
               <a href="https://www.freecodecamp.org/certification/guillermo7227/javascript-algorithms-and-data-structures"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>APIs and Microservices</b> (300 horas) <br>
+              <b>APIs and Microservices</b> (300 hours) <br>
               FreeCodeCamp.org
               <a href="https://www.freecodecamp.org/certification/guillermo7227/apis-and-microservices"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>Tecnólogo en Análisis y Desarrollo de Sistemas de Información</b> (18 meses) <br>
+            <b>Software Development (Technologian)</b> (18 months) <br>
               Servicio Nacional de Aprendizaje SENA
               <a href="{{ asset('img/certificados/tecnologo-desarrollo.jpg') }}"
                  target="_blank"
@@ -54,7 +54,7 @@
 
 
             <p>
-              <b>Técnico en Instalación de Redes de Computadores</b> (12 meses) <br>
+            <b>Computer Networks Installation (Professional Technician)</b> (12 months) <br>
               Servicio Nacional de Aprendizaje SENA
               <a href="{{ asset('img/certificados/tecnico-redes.jpg') }}"
                  target="_blank"
@@ -64,26 +64,26 @@
             </p>
 
             <p>
-              <b>Aplicaciones web modernas con VueJS</b> (videocurso 11 horas) <br>
+            <b>Modern Web Applications with VueJS</b> (videocurso 11 hours) <br>
               Udemy.com
               <a href="{{ asset('img/certificados/apps-vuejs.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
 
             <p>
-              <b>English Dot Works</b> (120 horas) <br>
+              <b>English Dot Works</b> (120 hours) <br>
               SENA Virtual
               <a href="{{ asset('img/certificados/ingles1.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado 1,
+                [Certificate 1,
               </a>
               <a href="{{ asset('img/certificados/ingles2.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                Certificado 2]
+                Certificate 2]
               </a>
             </p>
 
@@ -93,72 +93,72 @@
           <div class="col-md-6">
 
             <p>
-              <b>Curso Profesional de Backend</b> (videocurso 7 horas) <br>
+            <b>Backend Professional Course</b> (videocurso 7 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-backend.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>Curso Profesional Desarrollo Web</b> (videocurso 6 horas) <br>
+            <b>Web Development Professional Course</b> (videocurso 6 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-desarrollo-web.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>Curso Profesional de Python</b> (videocurso 5 horas) <br>
+            <b>Python Professional Course</b> (videocurso 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-desarrollo-web.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>Curso Profesional de PHP</b> (videocurso 7 horas) <br>
+            <b>PHP Professional Course</b> (videocurso 7 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-php.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>Curso Profesional de Javascript</b> (videocurso 5 horas) <br>
+            <b>Javascript Professional Course</b> (videocurso 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-javascript.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>Curso Patrones de Diseño con Java</b> (videocurso 5 horas) <br>
+            <b>Dsesign Patterns Professional Course</b> (videocurso 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/patrones-diseno.png') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 
             <p>
-              <b>Curso Profesional de Base de Datos</b> (videocurso 5 horas) <br>
+            <b>Databases Professional Course</b> (videocurso 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-base-datos.jpg') }}"
                  target="_blank"
                  class="text-resets">
-                [Certificado]
+                [Certificate]
               </a>
             </p>
 

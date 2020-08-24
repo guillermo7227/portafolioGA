@@ -4,33 +4,28 @@
         <h3><b>Experiencia Laboral</b></h3>
 
         <p>
-          <b>Técnico de Sistemas</b> (11 meses) <br>
+        <b>Web Developer</b> (7 months) <br>
+        GLOBAL EDB <br>
+        Duties: Development of web-based software solutions
+        </p>
+        <p>
+          <b>System Technician</b> (11 months) <br>
           INSTITUTO COLOMBIANO AGROPECUARIO ICA <br>
-          [Institución del Estado para la industria agropecuaria]<br>
-          Funciones: Soporte técnico a nivel de hardware y software atendiento los tickets de funcionarios.
+          Duties: Software and hardware technical Support
         </p>
 
 
         <p>
-          <b>Líder de Facturación</b> (16 meses) <br>
-          AGUAS DE LA GUAJIRA <br>
-          [Empresa de servicios públicos de agua y alcantarillado] <br>
-          Funciones: Supervisión del equipo de Lectura y Reparto. Liquidación e Impresión de Facturas de servicios públicos.
+        <b>Commercial Department Assistant</b> (6 months. Internship) <br>
+        COOMEVA EPS <br>
+        Duties: Making of software for measuring and improving the Affiliation process' Quality Assurance.
         </p>
 
 
         <p>
-          <b>Auxiliar del área Comercial</b> (6 meses. Pasantía) <br>
-          COOMEVA EPS<br>
-          [Entidad prestadora de servicios de salud] <br>
-          Funciones: Sistematización de los procesos de medición y mejora de la calidad en las afiliaciones.  Aplicación de metodologías de Control de Calidad en los procesos de afiliaciones.
+        <b>Systems and Telecommunications Technician</b> (5 months. Internship) <br>
+        COALCORP COLOMBIA  <br>
+        Duties: Systems and Telecommunication Support. Windows and Office Support. Computer preventive and corrective maintenance.
         </p>
 
-
-        <p>
-          <b>Técnico de Sistemas y Telecomunicaciones</b> (6 meses. Pasantía) <br>
-          COALCORP COLOMBIA<br>
-          [Mina extractora de Carbón] <br>
-          Funciones: Soporte de Sistemas y Telecomunicaciones. Soporte a usuarios Windows y Office. Mantenimiento preventivo y correctivo de PCs.
-        </p>
 
