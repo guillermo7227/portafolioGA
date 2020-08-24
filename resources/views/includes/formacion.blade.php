@@ -64,7 +64,7 @@
             </p>
 
             <p>
-            <b>Modern Web Applications with VueJS</b> (videocurso 11 hours) <br>
+            <b>Modern Web Applications with VueJS</b> (videocourse 11 hours) <br>
               Udemy.com
               <a href="{{ asset('img/certificados/apps-vuejs.jpg') }}"
                  target="_blank"
@@ -93,7 +93,7 @@
           <div class="col-md-6">
 
             <p>
-            <b>Backend Professional Course</b> (videocurso 7 hours) <br>
+            <b>Backend Professional Course</b> (videocourse 7 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-backend.jpg') }}"
                  target="_blank"
@@ -103,7 +103,7 @@
             </p>
 
             <p>
-            <b>Web Development Professional Course</b> (videocurso 6 hours) <br>
+            <b>Web Development Professional Course</b> (videocourse 6 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-desarrollo-web.jpg') }}"
                  target="_blank"
@@ -113,7 +113,7 @@
             </p>
 
             <p>
-            <b>Python Professional Course</b> (videocurso 5 hours) <br>
+            <b>Python Professional Course</b> (videocourse 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-desarrollo-web.jpg') }}"
                  target="_blank"
@@ -123,7 +123,7 @@
             </p>
 
             <p>
-            <b>PHP Professional Course</b> (videocurso 7 hours) <br>
+            <b>PHP Professional Course</b> (videocourse 7 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-php.jpg') }}"
                  target="_blank"
@@ -133,7 +133,7 @@
             </p>
 
             <p>
-            <b>Javascript Professional Course</b> (videocurso 5 hours) <br>
+            <b>Javascript Professional Course</b> (videocourse 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-javascript.jpg') }}"
                  target="_blank"
@@ -143,7 +143,7 @@
             </p>
 
             <p>
-            <b>Dsesign Patterns Professional Course</b> (videocurso 5 hours) <br>
+            <b>Dsesign Patterns Professional Course</b> (videocourse 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/patrones-diseno.png') }}"
                  target="_blank"
@@ -153,7 +153,7 @@
             </p>
 
             <p>
-            <b>Databases Professional Course</b> (videocurso 5 hours) <br>
+            <b>Databases Professional Course</b> (videocourse 5 hours) <br>
               CodigoFacilito.com
               <a href="{{ asset('img/certificados/pro-base-datos.jpg') }}"
                  target="_blank"
