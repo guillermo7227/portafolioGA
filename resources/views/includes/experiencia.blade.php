@@ -8,12 +8,18 @@
         GLOBAL EDB <br>
         Duties: Development of web-based software solutions
         </p>
+
         <p>
           <b>System Technician</b> (11 months) <br>
           INSTITUTO COLOMBIANO AGROPECUARIO ICA <br>
           Duties: Software and hardware technical Support
         </p>
 
+        <p>
+          <b>.NET Software Developer</b> (2 years. Development of a project)<br>
+          FERRETERÍA LISANDRO GÓMEZ CASTRO<br>
+          Duties: Development of a Inventory and Billing software solution
+        </p>
 
         <p>
         <b>Commercial Department Assistant</b> (6 months. Internship) <br>

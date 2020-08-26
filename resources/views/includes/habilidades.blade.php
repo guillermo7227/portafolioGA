@@ -11,7 +11,7 @@
             <b>Good proficiency (+70%)</b> <br>
 
             <p>
-            Laravel, VueJS, Javascript (ES6), CSS3, HTML5, Bootstrap, PHP, MySQL, Git, idioma Inglés
+            Laravel, VueJS, Javascript (ES6), .NET Framework, CSS3, HTML5, Bootstrap, PHP, MySQL, Git, idioma Inglés
             </p>
 
           </div>
