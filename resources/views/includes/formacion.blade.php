@@ -5,11 +5,6 @@
 
         <div class="row">
           <div class="col-md-6">
-            <p>
-              <b>Systems Engineer (Bachelor Degree)</b> (Currently 8th. semester) <br>
-              Universidad Nacional Abierta y a Distancia <br>
-            </p>
-
 
             <p>
               <b>Responsive Web Design</b> (300 hours) <br>
